@@ -1,5 +1,5 @@
-<h1 align="center">Hello there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Timur</h1>
-<h3 align="center">Full-stack web Developer</h3>
+<h1 align="center">Hello there,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Timur</h1>
+
 
 <!--
 **TimurRafalovich/TimurRafalovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
