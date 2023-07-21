@@ -1,4 +1,5 @@
-### Hey there 👋, My Name's Timur Rafalovich
+<h1 align="center">Hi there, I'm Timur<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Full-stack web Developer</h3>
 
 <!--
 **TimurRafalovich/TimurRafalovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
