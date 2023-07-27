@@ -2,7 +2,7 @@
 <h2 align="center">Hope you are having a <em>nice</em> day!<br>                             
                             ฅ^•ﻌ•^ฅ づ♡ </h2>
 
-<h3 align="center"> <strong>Fullstack/CyberSecurity/Software</strong> </h3>
+<h3 align="left"> <strong>Fullstack/CyberSecurity/Software</strong> </h3>
 
 <ul>
   <li>🔭 I’m currently working on: <strong>Fullstack & CyberSecurity & AndroidDev</strong></li>
